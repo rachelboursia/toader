@@ -1,8 +1,8 @@
-Frogger In Canvas
+Toader In Canvas
 =================
 
-HTML5 Canvas-based version of the classic arcade game Frogger.
-
-Built as part of the book "Pro JavaScript Development - Coding, Capabilities and Tooling" by Den Odell, published by Apress, 2014.
-
-Play the game at http://denodell.github.io/frogger/
+I developed this game for an assignment for one of my courses, I am currently enrolled in The Year Up program at Seattle Central Community College. This course is not tech-related; this is for my business management course. This assignment is for a group project where we must create a game, a business plan, and a marketing plan.
+ 
+HTML5 Canvas-based version of the spin-off of classic arcade game Frogger, our game is called Toader.
+ 
+Access the game here at
